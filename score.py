@@ -9,3 +9,6 @@ else:
     sum_of_elements = sum(array)
     avg_of_elements = sum_of_elements / len(array)
     print("Sum of elements:", sum_of_elements)
+    print("Average of elements:", avg_of_elements)
+    print("Maximum element:", max(array))
+    print("Minimum element:", min(array))
